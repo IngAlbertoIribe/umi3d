@@ -1,0 +1,1 @@
+simbad.demo.DemoManager
