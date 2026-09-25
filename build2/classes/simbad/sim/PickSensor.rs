@@ -1,0 +1,1 @@
+simbad.sim.PickSensor
